@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ResWDemoAppProject (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "ResWDemoAppProject (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
